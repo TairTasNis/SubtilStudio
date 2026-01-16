@@ -1,0 +1,9 @@
+customtkinter
+stable-ts
+yt-dlp
+torch
+torchaudio
+soundfile
+Pillow
+numpy
+demucs
